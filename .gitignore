@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+
+*.log
+
+results/Output and Screenshots/*.mp4
+results/Output and Screenshots/*.gif
+
+~$*.docx
+~$*.pdf
+ 
